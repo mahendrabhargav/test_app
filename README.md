@@ -1,5 +1,5 @@
 # README
-trying to learn ruby on rails
+trying to learn ruby on rails and learned git
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
